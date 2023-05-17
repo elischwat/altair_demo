@@ -1,4 +1,8 @@
-A demo for using altair with both wide and tidy form datasets. Datasets are provided here.
+A demo for using altair with both wide and tidy form datasets. The demo is the notebook
+
+altair-exploratory-notebook.ipynb
+
+Datasets used in the demo are included in this repo.
 
 Altair documentation:
 https://altair-viz.github.io
